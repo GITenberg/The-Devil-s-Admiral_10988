@@ -1,0 +1,27 @@
+_repo: The-Devil-s-Admiral_10988
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Frederick Ferdinand
+    alias: Moore, Frederick F. (Frederick Ferdinand)
+    birthdate: 1877
+    gutenberg_agent_id: '3782'
+    url: http://www.gutenberg.org/2009/agents/3782
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Journalists -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Devil's Admiral
+url: http://www.gutenberg.org/ebooks/10988
